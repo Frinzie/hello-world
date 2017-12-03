@@ -1,2 +1,3 @@
 # hello-world
-doin tutorial for a codein task
+completing tutorial for a codein task
+hello world! :)
